@@ -19,7 +19,7 @@ disqus:
     shortname:      disclose_io
 
 # Google analytics code, get your code here https://www.google.com/analytics/
-google_analytics:   UA-143424917-6
+google_analytics:   UA-143424917-10
 
 gems:
   - jekyll-feed
